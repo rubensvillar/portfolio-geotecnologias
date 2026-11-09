@@ -1,0 +1,10 @@
+ATUALIZAÇÃO DA GALERIA — 15 MAPAS
+
+1. Abra o GitHub Desktop e confirme o repositório portfolio-geotecnologias.
+2. Clique em Show in Explorer.
+3. Copie o CONTEÚDO desta pasta para a raiz do repositório local, aceitando substituir arquivos.
+4. No GitHub Desktop, confirme os arquivos alterados.
+5. Faça Commit to main, depois Push origin.
+6. Atualize https://rubensvillar.github.io/portfolio-geotecnologias/ com Ctrl+F5.
+
+Atenção: use somente materiais autorizados para divulgação pública.

@@ -90,6 +90,26 @@
     "thumbnail": "assets/thumbs/idhm-longevidade.webp"
   },
   {
+    "slide": "11",
+    "slug": "comparativo-idhm",
+    "title": "Comparativo do IDHM e suas dimensões",
+    "category": "Desenvolvimento humano",
+    "year": "2010",
+    "description": "Comparação das médias municipais do IDHM geral e de suas dimensões Educação, Longevidade e Renda; inclui nota metodológica.",
+    "image": "assets/maps/comparativo-idhm.png",
+    "thumbnail": "assets/thumbs/comparativo-idhm.webp"
+  },
+  {
+    "slide": "12",
+    "slug": "pib",
+    "title": "Produto Interno Bruto municipal",
+    "category": "Economia",
+    "year": "2023",
+    "description": "PIB municipal a preços correntes, com os dez maiores valores e indicadores do conjunto de 33 municípios.",
+    "image": "assets/maps/pib.png",
+    "thumbnail": "assets/thumbs/pib.webp"
+  },
+  {
     "slide": "13",
     "slug": "pib-per-capita",
     "title": "PIB per capita municipal",

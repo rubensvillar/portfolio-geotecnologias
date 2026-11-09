@@ -5,7 +5,7 @@ Site estático em HTML, CSS e JavaScript, com galeria de mapas temáticos dos 33
 ## Conteúdo inicial
 
 - Página inicial corporativa em azul-marinho e branco.
-- Galeria com 13 mapas reais: território, demografia, IDHM e economia.
+- Galeria com 15 mapas reais: território, demografia, IDHM e economia.
 - Filtros por tema e visualização ampliada.
 - Layout responsivo, sem dependências externas.
 
