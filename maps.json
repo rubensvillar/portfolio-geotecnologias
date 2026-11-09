@@ -1,0 +1,132 @@
+[
+  {
+    "slide": "02",
+    "slug": "localizacao",
+    "title": "Localização dos municípios selecionados",
+    "category": "Território",
+    "year": "2026",
+    "description": "Distribuição territorial dos 33 municípios selecionados no estado de Goiás.",
+    "image": "assets/maps/localizacao.png",
+    "thumbnail": "assets/thumbs/localizacao.webp"
+  },
+  {
+    "slide": "03",
+    "slug": "area-territorial",
+    "title": "Área territorial",
+    "category": "Território",
+    "year": "2025",
+    "description": "Comparação da extensão territorial dos municípios selecionados.",
+    "image": "assets/maps/area-territorial.png",
+    "thumbnail": "assets/thumbs/area-territorial.webp"
+  },
+  {
+    "slide": "04",
+    "slug": "populacao",
+    "title": "População municipal",
+    "category": "Demografia",
+    "year": "2025",
+    "description": "Distribuição espacial do tamanho populacional, com estimativas de 2025.",
+    "image": "assets/maps/populacao.png",
+    "thumbnail": "assets/thumbs/populacao.webp"
+  },
+  {
+    "slide": "05",
+    "slug": "densidade",
+    "title": "Densidade demográfica",
+    "category": "Demografia",
+    "year": "2025",
+    "description": "Densidade de habitantes por quilômetro quadrado e comparação municipal.",
+    "image": "assets/maps/densidade.png",
+    "thumbnail": "assets/thumbs/densidade.webp"
+  },
+  {
+    "slide": "06",
+    "slug": "concentracao",
+    "title": "Concentração populacional relativa",
+    "category": "Demografia",
+    "year": "2025",
+    "description": "Relação entre participação populacional e participação na área territorial.",
+    "image": "assets/maps/concentracao.png",
+    "thumbnail": "assets/thumbs/concentracao.webp"
+  },
+  {
+    "slide": "07",
+    "slug": "idhm",
+    "title": "IDHM geral",
+    "category": "Desenvolvimento humano",
+    "year": "2010",
+    "description": "Índice de Desenvolvimento Humano Municipal dos municípios selecionados.",
+    "image": "assets/maps/idhm.png",
+    "thumbnail": "assets/thumbs/idhm.webp"
+  },
+  {
+    "slide": "08",
+    "slug": "idhm-educacao",
+    "title": "IDHM Educação",
+    "category": "Desenvolvimento humano",
+    "year": "2010",
+    "description": "Dimensão Educação do Índice de Desenvolvimento Humano Municipal.",
+    "image": "assets/maps/idhm-educacao.png",
+    "thumbnail": "assets/thumbs/idhm-educacao.webp"
+  },
+  {
+    "slide": "09",
+    "slug": "idhm-renda",
+    "title": "IDHM Renda",
+    "category": "Desenvolvimento humano",
+    "year": "2010",
+    "description": "Dimensão Renda do Índice de Desenvolvimento Humano Municipal.",
+    "image": "assets/maps/idhm-renda.png",
+    "thumbnail": "assets/thumbs/idhm-renda.webp"
+  },
+  {
+    "slide": "10",
+    "slug": "idhm-longevidade",
+    "title": "IDHM Longevidade",
+    "category": "Desenvolvimento humano",
+    "year": "2010",
+    "description": "Dimensão Longevidade do IDHM e suas diferenças relativas.",
+    "image": "assets/maps/idhm-longevidade.png",
+    "thumbnail": "assets/thumbs/idhm-longevidade.webp"
+  },
+  {
+    "slide": "13",
+    "slug": "pib-per-capita",
+    "title": "PIB per capita municipal",
+    "category": "Economia",
+    "year": "2023",
+    "description": "Produto Interno Bruto municipal por habitante, a preços correntes.",
+    "image": "assets/maps/pib-per-capita.png",
+    "thumbnail": "assets/thumbs/pib-per-capita.webp"
+  },
+  {
+    "slide": "14",
+    "slug": "estrutura-economica",
+    "title": "Estrutura econômica por setor",
+    "category": "Economia",
+    "year": "2021",
+    "description": "Predominância econômica municipal entre Agropecuária, Indústria e Serviços.",
+    "image": "assets/maps/estrutura-economica.png",
+    "thumbnail": "assets/thumbs/estrutura-economica.webp"
+  },
+  {
+    "slide": "15",
+    "slug": "vab-agro",
+    "title": "Participação da Agropecuária no VAB",
+    "category": "Economia",
+    "year": "2021",
+    "description": "Peso da Agropecuária na estrutura produtiva dos municípios.",
+    "image": "assets/maps/vab-agro.png",
+    "thumbnail": "assets/thumbs/vab-agro.webp"
+  },
+  {
+    "slide": "16",
+    "slug": "vab-industria",
+    "title": "Participação da Indústria no VAB",
+    "category": "Economia",
+    "year": "2021",
+    "description": "Peso da Indústria no Valor Adicionado Bruto municipal.",
+    "image": "assets/maps/vab-industria.png",
+    "thumbnail": "assets/thumbs/vab-industria.webp"
+  }
+]
